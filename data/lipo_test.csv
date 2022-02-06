@@ -1,0 +1,7 @@
+smiles,lipo
+CN(C)CCNc1cc(nc2cc(nn12)c3ccc(F)cc3)c4ccccc4,4.5
+OC(c1ccc(cc1)N(CC(F)(F)F)S(=O)(=O)c2ccccc2)(C(F)(F)F)C(F)(F)F,4.5
+CC(C)C[C@H](CO)Nc1nc(SCc2ccccc2F)nc3nc(N)sc13,4.5
+CN(C)c1cccc2c(cccc12)S(=O)(=O)N(C)CC(=O)O,-1.45
+NC1=NC(=O)N(C=C1)[C@@H]2O[C@H](CO)[C@@H](O)C2(F)F,-1.5
+SC1=Nc2[nH]cnc2C(=O)N1,-1.48
